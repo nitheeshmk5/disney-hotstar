@@ -80,7 +80,7 @@ function Header() {
         </div>
       </div>
       <img
-        src="https://ps.w.org/user-avatar-reloaded/assets/icon-256x256.png?rev=2540745"
+        src="https://avatars.githubusercontent.com/u/119439047?v=4"
         className="w-[40px] rounded-full"
       />
     </div>
